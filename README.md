@@ -1,3 +1,10 @@
+# About iNotebook
+iNotebook is basically a notes React app that allows users to store, edit and delete their notes. This application uses MERN stack but mainly focuses on ReactJS. it also has the functionality where users can login and signup into their accounts. It uses jwt authentication for storing credentials of users.
+# Samples
+![Screenshot 2023-12-27 141841](https://github.com/sej07/iNotebook/assets/121630021/e07afa26-d09a-4df4-8827-c5b5cbb95db8)
+![Screenshot 2023-12-27 141902](https://github.com/sej07/iNotebook/assets/121630021/d2c22a88-d4dd-4f7c-aeec-37f9775f5dad)
+![Screenshot 2023-12-27 141916](https://github.com/sej07/iNotebook/assets/121630021/13e53372-95b9-4241-90b6-62009eeb4ae4)
+![Screenshot 2023-12-27 142010](https://github.com/sej07/iNotebook/assets/121630021/8c31e8b6-9b9c-4320-b4c8-09e01d043991)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
